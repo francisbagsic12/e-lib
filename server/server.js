@@ -27,7 +27,7 @@ const io = new Server(httpServer, {
       "http://localhost:5173",
       "http://localhost:3000",
       "http://localhost:4173",
-      "https://e-libraryhube.netlify.app",
+      "https://e-librarycentre.netlify.app",
       "https://e-lib-k9tp.onrender.com",
     ],
     methods: ["GET", "POST"],
@@ -56,7 +56,7 @@ const clientOrigins = [
   "http://localhost:5173",
   "http://localhost:3000",
 
-  "https://e-libraryhube.netlify.app",
+  "https://e-librarycentre.netlify.app",
   "https://e-lib-k9tp.onrender.com",
 
   "http://localhost:4173",
